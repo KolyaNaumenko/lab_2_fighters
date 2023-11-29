@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="military_planes.xsd">
+    <plane id="p1">
+        <model>MiG-29</model>
+        <origin>Soviet Union</origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>6</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>17.32</length>
+            <width>11.36</width>
+            <height>4.73</height>
+        </parameters>
+        <price>20000000</price>
+    </plane>
+    <plane id="p2">
+        <model>Su-27</model>
+        <origin>Soviet Union</origin>
+        <chars>
+            <type>interceptor</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>8</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>21.9</length>
+            <width>14.7</width>
+            <height>5.9</height>
+        </parameters>
+        <price>12000000</price>
+    </plane>
+    <plane id="p3">
+        <model>MiG-23</model>
+        <origin>Soviet Union</origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>4</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>16.7</length>
+            <width>13.97</width>
+            <height>4.82</height>
+        </parameters>
+        <price>15000000</price>
+    </plane>
+    <plane id="p4">
+        <model>MiG-21</model>
+        <origin>Soviet Union</origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>2</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>14.7</length>
+            <width>7.2</width>
+            <height>4.1</height>
+        </parameters>
+        <price>5000000</price>
+    </plane>
+    <plane id="p5">
+        <model>Su-30</model>
+        <origin>Russia      </origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>12</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>21.9</length>
+            <width>14.7</width>
+            <height>6.4</height>
+        </parameters>
+        <price>30000000</price>
+    </plane>
+    <plane id="p6">
+        <model>Su-35</model>
+        <origin>Russia      </origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>12</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>21.9</length>
+            <width>14.7</width>
+            <height>5.9</height>
+        </parameters>
+        <price>35000000</price>
+    </plane>
+    <plane id="p7">
+        <model>Rafale</model>
+        <origin>France      </origin>
+        <chars>
+            <type>interceptor</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>9</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>15.30</length>
+            <width>10.90</width>
+            <height>5.34</height>
+        </parameters>
+        <price>74000000</price>
+    </plane>
+    <plane id="p8">
+        <model>Eurofighter Typhoon</model>
+        <origin>German      </origin>
+        <chars>
+            <type>fighter</type>
+            <seats>1</seats>
+            <ammunition>
+                <missiles>8</missiles>
+                <radar>true</radar>
+            </ammunition>
+        </chars>
+        <parameters>
+            <length>15.96</length>
+            <width>11.09</width>
+            <height>5.28</height>
+        </parameters>
+        <price>85000000</price>
+    </plane>
+   </planes>
