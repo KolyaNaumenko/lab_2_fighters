@@ -73,7 +73,7 @@ public class Main {
         planes.forEach(System.out::println);
         System.out.println(delimiter);
 
-        System.out.println("\nSorted by Missiles:\n");
+        System.out.println("\nSorted by Seats:\n");
         planes.sort(new PlaneSeatsComparator());
         planes.forEach(System.out::println);
         System.out.println(delimiter);

@@ -77,7 +77,7 @@
         <origin>Russia      </origin>
         <chars>
             <type>fighter</type>
-            <seats>1</seats>
+            <seats>2</seats>
             <ammunition>
                 <missiles>12</missiles>
                 <radar>true</radar>
@@ -131,7 +131,7 @@
         <origin>German      </origin>
         <chars>
             <type>fighter</type>
-            <seats>1</seats>
+            <seats>2</seats>
             <ammunition>
                 <missiles>8</missiles>
                 <radar>true</radar>
